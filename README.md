@@ -4,9 +4,8 @@ NYC CITI BIKE ANALYSIS
 Story can be found here: 
 
 
-https://public.tableau.com/app/profile/prabha.r.shankar2779/viz/Citi-Bike-Analysis-Tableau-CitiBank-Story/CitiBIkeStory
-
-
+https://public.tableau.com/app/profile/prabha.r.shankar2779/viz/Citi-Bike-Analysis-Tableau-CitiBankStory/CitiBIkeStory
+https://public.tableau.com/app/profile/prabha.r.shankar2779
 
 
 Dashboard 1: StartStations Dashboard
