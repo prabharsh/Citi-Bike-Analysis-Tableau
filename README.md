@@ -2,7 +2,7 @@
 NYC CITI BIKE ANALYSIS
 
 Story can be found here: 
-https://public.tableau.com/profile/ TBA
+https://public.tableau.com/app/profile/prabha.r.shankar2779/viz/Citi-Bike-Analysis-Tableau-final_16787633451310/MembershipbeforeandafterPandemic
 
 
 
